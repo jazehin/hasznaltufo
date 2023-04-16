@@ -1,1 +1,3 @@
-# hasznaltufo
+# hasznaltufo task
+## Summary:
+This project is about creating an application for a used UFO dealership, which can keep track of its inventory and customers. The app uses an MS SQL server and displays the dealership's offerings in a table. The price of a vehicle is determined based on its condition and type. The app also features two menus: one for customers and another for searching for reserved vehicles. The customer menu allows users to select a customer from a drop-down menu and view their information, while the search menu displays all reserved vehicles and their prospective buyers.
